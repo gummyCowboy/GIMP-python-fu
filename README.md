@@ -63,3 +63,7 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/roller-stained-glass.jpg)
 </br></br>
 
+**Inlay Shadow**
+![Roller](/images/roller-inlay-shadow.jpg)
+</br></br>
+
