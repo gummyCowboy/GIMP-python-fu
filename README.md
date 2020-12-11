@@ -51,3 +51,7 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/roller-clear-frame.jpg)
 </br></br>
 
+**Gradient Bevel**</br>
+![Roller](/images/roller-clear-frame.jpg)
+</br></br>
+
