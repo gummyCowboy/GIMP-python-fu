@@ -31,3 +31,9 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/roller-lost-maze.jpg)
 </br></br>
 
+**Mystery Grate**</br>
+![Roller](/images/roller-mystery-grate.jpg)
+</br></br>
+
+
+
