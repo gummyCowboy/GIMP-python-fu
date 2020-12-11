@@ -47,3 +47,7 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/roller-colored-board.jpg)
 </br></br>
 
+**Clear Frame**</br>
+![Roller](/images/roller-clear-frame.jpg)
+</br></br>
+
