@@ -26,3 +26,8 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 **Gradient Fill**</br>
 ![Roller](/images/roller-gradient-fill.jpg)
 </br></br>
+
+**Lost Maze**</br>
+![Roller](/images/roller-lost-maze.jpg)
+</br></br>
+
