@@ -39,5 +39,9 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/roller-border-line.jpg)
 </br></br>
 
+**Ceramic Chip**</br>
+![Roller](/images/roller-ceramic-chip.jpg)
+</br></br>
+
 
 
