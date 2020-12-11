@@ -14,3 +14,7 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 **Colored Grid**</br>
 ![Roller](/images/roller-colored-grid.jpg)
 </br></br>
+
+**Core Design**</br>
+![Roller](/images/roller-core-design.jpg)
+</br></br>
