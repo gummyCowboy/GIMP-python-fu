@@ -59,3 +59,7 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/roller-jagged-edge.jpg)
 </br></br>
 
+**Stained Glass**
+![Roller](/images/roller-stained-glass.jpg)
+</br></br>
+
