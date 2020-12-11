@@ -55,3 +55,7 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/roller-gradient-bevel.jpg)
 </br></br>
 
+**Jagged Edge**
+![Roller](/images/roller-jagged-edge.jpg)
+</br></br>
+
