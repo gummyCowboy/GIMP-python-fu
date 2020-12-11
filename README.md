@@ -22,3 +22,7 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 **Floor Sample**</br>
 ![Roller](/images/roller-floor-sample.jpg)
 </br></br>
+
+**Gradient Fill**</br>
+![Roller](/images/roller-gradient-fill.jpg)
+</br></br>
