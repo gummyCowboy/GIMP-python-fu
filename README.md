@@ -67,3 +67,13 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/roller-inlay-shadow.jpg)
 </br></br>
 
+**Rainbow Valley**
+![Roller](/images/rainbow-valley-sample.jpg)
+</br></br>
+
+**Rad Wave**
+![Roller](/images/rad-wave-sample.jpg)
+</br></br>
+
+
+
