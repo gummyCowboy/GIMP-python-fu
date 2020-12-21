@@ -75,5 +75,11 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/rad-wave-sample.jpg)
 </br></br>
 
+**Light Shaft**
+![Roller](/images/light-shaft-sample.jpg)
+</br></br>
 
+**Wire Fence**
+![Roller](/images/wire-fence-sample.jpg)
+</br></br>
 
