@@ -83,3 +83,11 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/wire-fence-sample.jpg)
 </br></br>
 
+**Spacetime Fabric**
+![Roller](/images/spacetime-fabric-sample.jpg)
+</br></br>
+
+**Line Fashion**
+![Roller](/images/line-fashion-sample.jpg)
+</br></br>
+
