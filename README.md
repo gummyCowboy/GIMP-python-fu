@@ -99,3 +99,10 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/square-punch-sample.jpg)
 </br></br>
 
+**Rocky Landing**
+![Roller](/images/roller-rocky-landing.jpg)
+</br></br>
+
+**Circle Punch**
+![Roller](/images/roller-circle-punch.jpg)
+</br></br>
