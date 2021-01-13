@@ -106,3 +106,8 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 **Circle Punch**
 ![Roller](/images/roller-circle-punch.jpg)
 </br></br>
+
+**Honey Bee**
+![Roller](/images/roller-honey-bee.jpg)
+</br></br>
+
