@@ -108,6 +108,6 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 </br></br>
 
 **Honey Bee**
-![Roller](/images/roller-honey-bee.jpg)
+![Roller](/images/honey-bee-sample.jpg)
 </br></br>
 
