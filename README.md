@@ -111,3 +111,7 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/honey-bee-sample.jpg)
 </br></br>
 
+**Maze Mirror**
+![Roller](/images/maze-mirror-sample.jpg)
+</br></br>
+
