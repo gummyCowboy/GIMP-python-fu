@@ -116,4 +116,4 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 </br></br>
 
 **Specimen Speckle**
-![Roller](/images/Specimen-Speckle.jpg)
+![Roller](/images/specimen-speckle.jpg)
