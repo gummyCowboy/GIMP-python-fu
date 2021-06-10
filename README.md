@@ -115,3 +115,5 @@ This is a collection for my GIMP python-fu scripts that I've created and am shar
 ![Roller](/images/maze-mirror-sample.jpg)
 </br></br>
 
+**Specimen Speckle**
+![Roller](/images/Specimen-Speckle.jpg)
